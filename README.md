@@ -1,6 +1,5 @@
 # Driver_Drowsiness_Detection_Using_ML
 <br>
-<br>
 Driver Drowsiness Detection using DLIB involves the technique of mapping facial landmarks on live video to determine if a driver is alert or drowsy. Road accidents pose a significant problem throughout the Indian subcontinent. In 2019, road accidents led to over 151,000 deaths in the country. Remarkably, although India comprises only about one percent of the global vehicle population, it is responsible for approximately six percent of the world's road traffic accidents. The method is outlined as follows:
 <br>
 <br>
